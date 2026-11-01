@@ -1,0 +1,8 @@
+Freewood-BeastsData
+===================
+Die Startdaten (Data.lua) stammen aus dem Addon "Tamed (Hunter Pet Abilities)" von moody:
+https://github.com/moody/Tamed  (Dateien TameableNPCs-Vanilla.lua und TameableAbilities-Vanilla/TBC.lua)
+
+Die Daten wurden in ein kompaktes Format umgewandelt. Das Feld "type" (Ferocity/Cunning/Tenacity)
+wurde nicht uebernommen. Der Lizenztext von Tamed (MIT) liegt in LICENSE-Tamed.txt und muss bei
+jeder Weitergabe dieses Ordners mitgeliefert werden.

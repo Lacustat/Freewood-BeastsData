@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: Freewood |cffc89b3cBeasts Data|r
+## Notes: Starter data for the Freewood wild beast archive (from the addon Tamed by moody, MIT license).
+## Notes-deDE: Startdaten für das Freewood-Wildtier-Archiv (aus dem Addon Tamed von moody, MIT-Lizenz).
+## Author: Dominik (Daten: moody / Tamed)
+## Version: 0.1.0
+## IconTexture: Interface\Icons\Ability_Hunter_BeastTaming
+
+Data.lua
