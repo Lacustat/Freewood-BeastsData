@@ -1,4 +1,4 @@
-# Freewood-Forever-BeastsData
+# Freewood-BeastsData
 
 **Deutsch & English · German & English.** Autor · Author: Lacustat. Version 0.1.0 · Interface 16001 (World of Warcraft: Forever).
 
