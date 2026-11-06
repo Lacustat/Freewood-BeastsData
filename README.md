@@ -1,6 +1,6 @@
 # Freewood-BeastsData
 
-**Deutsch & English · German & English.** Autor · Author: Lacustat. Version 0.1.0 · Interface 16001 (World of Warcraft: Forever).
+**Deutsch & English · German & English.** Autor · Author: Lacustat. Version 0.2.0 · Interface 16001 (World of Warcraft: Forever).
 
 ## Inhalt · Contents
 - [Deutsch](#deutsch)
@@ -9,7 +9,7 @@
 ## Deutsch
 
 ### Was ist das?
-Startdaten für das Freewood-Wildtier-Archiv: rund 300 Tiere (aus dem Addon Tamed von moody, MIT-Lizenz). Reine Daten, kein eigener Reiter.
+Startdaten für das Freewood-Wildtier-Archiv: rund 380 Tiere (aus dem Addon Tamed von moody, MIT-Lizenz) und alle Jäger-Fähigkeiten mit allen Rängen und den Tieren, die sie lehren (aus Petopia Forever). Reine Daten, kein eigener Reiter.
 
 ### Funktionen
 - Wird von Freewood-Beasts automatisch geladen, wenn der Ordner vorhanden ist.
@@ -37,7 +37,7 @@ GPL-3.0, siehe `LICENSE`.
 ## English
 
 ### What is it?
-Starter data for the Freewood beast archive: about 300 beasts (from the addon Tamed by moody, MIT license). Pure data, no tab of its own.
+Starter data for the Freewood beast archive: about 380 beasts (from the addon Tamed by moody, MIT license) and all hunter pet abilities with every rank and the beasts that teach them (from Petopia Forever). Pure data, no tab of its own.
 
 ### Features
 - Loaded by Freewood-Beasts automatically when the folder is present.

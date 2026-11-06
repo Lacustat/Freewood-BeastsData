@@ -1,10 +1,11 @@
 ## Interface: 16001
 ## Title: Freewood |cffc89b3cBeasts Data|r
-## Notes: Starter data for the Freewood wild beast archive (from the addon Tamed by moody, MIT license).
-## Notes-deDE: Startdaten für das Freewood-Wildtier-Archiv (aus dem Addon Tamed von moody, MIT-Lizenz).
+## Notes: Starter data for the Freewood wild beast archive (Tamed by moody, MIT license; abilities and ranks from Petopia Forever).
+## Notes-deDE: Startdaten für das Freewood-Wildtier-Archiv (Tamed von moody, MIT-Lizenz; Fähigkeiten und Ränge aus Petopia Forever).
 ## Author: Lacustat (Daten: moody / Tamed)
-## Version: 0.1.0
+## Version: 0.2.0
 ## IconTexture: Interface\Icons\Ability_Hunter_BeastTaming
 ## X-Wago-ID: ZKbqpR61
 
 Data.lua
+Abilities.lua

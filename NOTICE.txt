@@ -6,3 +6,8 @@ https://github.com/moody/Tamed  (Dateien TameableNPCs-Vanilla.lua und TameableAb
 Die Daten wurden in ein kompaktes Format umgewandelt. Das Feld "type" (Ferocity/Cunning/Tenacity)
 wurde nicht uebernommen. Der Lizenztext von Tamed (MIT) liegt in LICENSE-Tamed.txt und muss bei
 jeder Weitergabe dieses Ordners mitgeliefert werden.
+
+Die Fähigkeiten mit allen Rängen (Stufe, Trainingspunkte, welche Tiere sie beim Zähmen lehren) in Abilities.lua
+wurden aus der Übersicht von Petopia Forever (https://www.wow-petopia.com/forever/) zusammengetragen.
+Übernommen sind nur Fakten (Namen, Zahlen, NPC-Nummern), keine Texte oder Bilder.
+Die Zuordnung der Zauber-Nummern zu Fähigkeit und Rang stammt aus dem Abgleich mit den Tamed-Daten.
